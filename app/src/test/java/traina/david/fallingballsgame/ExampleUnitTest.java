@@ -1,4 +1,4 @@
-package traina.david.keepupgame;
+package traina.david.fallingballsgame;
 
 import org.junit.Test;
 

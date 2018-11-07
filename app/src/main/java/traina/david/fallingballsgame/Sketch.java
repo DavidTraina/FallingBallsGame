@@ -1,4 +1,4 @@
-package traina.david.keepupgame;
+package traina.david.fallingballsgame;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
