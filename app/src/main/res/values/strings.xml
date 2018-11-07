@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KeepUpGame</string>
+    <string name="play">PLAY</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="falling_balls">Falling Balls</string>
+
+</resources>
